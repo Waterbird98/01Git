@@ -35,6 +35,9 @@ node_modules/
 dist/
 build/
 
+# 显卡驱动日志等系统生成目录
+NVIDIA Corporation/
+
 # 压缩包与大文件（按需调整）
 # *.zip
 # *.rar
