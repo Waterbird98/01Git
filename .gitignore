@@ -1,0 +1,41 @@
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS 系统文件（跨平台协作时用得到）
+.DS_Store
+._*
+
+# 临时文件与缓存
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+~$*
+
+# 日志文件
+*.log
+logs/
+
+# 编辑器/IDE 配置
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Node 依赖与构建产物
+node_modules/
+dist/
+build/
+
+# 压缩包与大文件（按需调整）
+# *.zip
+# *.rar
+# *.7z
